@@ -1,6 +1,7 @@
 from sys import argv
 import os
 
+# Generators function
 
 def read_file(fname):
 
